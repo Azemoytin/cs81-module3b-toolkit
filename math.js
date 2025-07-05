@@ -3,3 +3,9 @@ function double(n) {
 }
 
 
+function square(n) {
+  return n * n;
+}
+
+
+
